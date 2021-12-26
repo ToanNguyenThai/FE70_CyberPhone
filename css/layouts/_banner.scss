@@ -1,0 +1,12 @@
+main {
+    .banner {
+        background-image: url("../../image/product-header-bg.jpg");
+        background-size: cover;
+        background-position: center bottom;
+        padding: 225px 0;
+        .banner__container {
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+}
